@@ -72,7 +72,7 @@ a:hover {
   }
 }
 
-@media screen and (max-width:480px) {
+@media screen and (max-width:1200px) {
   .header{
     display: flex;
     flex-wrap: wrap;
