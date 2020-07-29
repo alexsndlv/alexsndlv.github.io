@@ -73,18 +73,18 @@ a:hover {
 }
 
 @media screen and (max-width:1200px) {
-  .content {
-    display: flex;
-    flex-wrap: wrap;
-    width: 100%;
-    justify-content: center;
-    margin-top: 1%;
-  }
   .header{
     display: flex;
     flex-wrap: wrap;
     width: 100%;
     justify-content: center;
     margin-top: 20%;
+  }
+  .content {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    margin-top: 1%;
   }
 }
